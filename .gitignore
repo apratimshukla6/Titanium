@@ -1,0 +1,7 @@
+venv/
+installer/
+.vscode/
+node_modules/
+release-builds/
+sdk/
+virtualbox-python/
