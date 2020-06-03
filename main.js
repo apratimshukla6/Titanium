@@ -8,7 +8,8 @@ const {app, BrowserWindow, Menu, ipcMain} = electron;
 
 let mainWindow;
 
-// this should be placed at top of main.js to handle setup events quickly
+// This should be placed at top of main.js to handle setup events quickly
+//Events handled Quickly
 if (handleSquirrelEvent(app)) {
     // squirrel event handled and app will exit in 1000ms, so don't do anything else
     return;
