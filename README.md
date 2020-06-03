@@ -1,2 +1,4 @@
 # Titanium
- Titanium is a minimalistic VM manager.
+ Virtual Machine controller Based on Electron
+ 
+ 
